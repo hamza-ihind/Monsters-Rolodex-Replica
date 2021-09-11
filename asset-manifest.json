@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//hamza-ihind.github.io/Monster-Rolodex-Replica/static/css/main.46458287.chunk.css",
+    "main.js": "/https//hamza-ihind.github.io/Monster-Rolodex-Replica/static/js/main.b902ed69.chunk.js",
+    "main.js.map": "/https//hamza-ihind.github.io/Monster-Rolodex-Replica/static/js/main.b902ed69.chunk.js.map",
+    "runtime-main.js": "/https//hamza-ihind.github.io/Monster-Rolodex-Replica/static/js/runtime-main.9654f519.js",
+    "runtime-main.js.map": "/https//hamza-ihind.github.io/Monster-Rolodex-Replica/static/js/runtime-main.9654f519.js.map",
+    "static/js/2.72cbcc59.chunk.js": "/https//hamza-ihind.github.io/Monster-Rolodex-Replica/static/js/2.72cbcc59.chunk.js",
+    "static/js/2.72cbcc59.chunk.js.map": "/https//hamza-ihind.github.io/Monster-Rolodex-Replica/static/js/2.72cbcc59.chunk.js.map",
+    "static/js/3.e09558a6.chunk.js": "/https//hamza-ihind.github.io/Monster-Rolodex-Replica/static/js/3.e09558a6.chunk.js",
+    "static/js/3.e09558a6.chunk.js.map": "/https//hamza-ihind.github.io/Monster-Rolodex-Replica/static/js/3.e09558a6.chunk.js.map",
+    "index.html": "/https//hamza-ihind.github.io/Monster-Rolodex-Replica/index.html",
+    "static/css/main.46458287.chunk.css.map": "/https//hamza-ihind.github.io/Monster-Rolodex-Replica/static/css/main.46458287.chunk.css.map",
+    "static/js/2.72cbcc59.chunk.js.LICENSE.txt": "/https//hamza-ihind.github.io/Monster-Rolodex-Replica/static/js/2.72cbcc59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9654f519.js",
+    "static/js/2.72cbcc59.chunk.js",
+    "static/css/main.46458287.chunk.css",
+    "static/js/main.b902ed69.chunk.js"
+  ]
+}
